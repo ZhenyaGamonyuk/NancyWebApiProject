@@ -1,0 +1,4312 @@
+﻿{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2020-02-15T06:08:01-05:00",
+  "num_results": 53,
+  "results": [
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "Coronavirus Live Updates: France Reports First Death Outside Asia",
+      "abstract": "The French health minister said the man was an 80-year-old tourist from Hubei who had been hospitalized since Jan. 25.",
+      "url": "https://www.nytimes.com/2020/02/15/world/asia/china-coronavirus.html",
+      "uri": "nyt://article/c00bdba7-8f04-52a5-a0ed-87e714a57d12",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T06:01:41-05:00",
+      "created_date": "2020-02-15T00:13:20-05:00",
+      "published_date": "2020-02-15T00:13:20-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Quarantines",
+        "Epidemics"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "China",
+        "Hubei Province (China)",
+        "Japan",
+        "Beijing (China)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15china-briefing8/merlin_168035004_fdc34669-7dce-4d2f-867f-769c259f9946-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Bichat-Claude-Bernard Hospital in Paris, where a Chinese tourist who had been hospitalized since Jan. 25 died of coronavirus on Friday.",
+          "copyright": "Christophe Ena/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15china-briefing8/merlin_168035004_fdc34669-7dce-4d2f-867f-769c259f9946-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Bichat-Claude-Bernard Hospital in Paris, where a Chinese tourist who had been hospitalized since Jan. 25 died of coronavirus on Friday.",
+          "copyright": "Christophe Ena/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15china-briefing8/merlin_168035004_fdc34669-7dce-4d2f-867f-769c259f9946-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Bichat-Claude-Bernard Hospital in Paris, where a Chinese tourist who had been hospitalized since Jan. 25 died of coronavirus on Friday.",
+          "copyright": "Christophe Ena/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15china-briefing8/merlin_168035004_fdc34669-7dce-4d2f-867f-769c259f9946-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Bichat-Claude-Bernard Hospital in Paris, where a Chinese tourist who had been hospitalized since Jan. 25 died of coronavirus on Friday.",
+          "copyright": "Christophe Ena/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15china-briefing8/merlin_168035004_fdc34669-7dce-4d2f-867f-769c259f9946-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Bichat-Claude-Bernard Hospital in Paris, where a Chinese tourist who had been hospitalized since Jan. 25 died of coronavirus on Friday.",
+          "copyright": "Christophe Ena/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/39Af7IB"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "U.S. Will Evacuate Americans From Cruise Ship Quarantined in Japan",
+      "abstract": "Americans on the Diamond Princess were told by the U.S. Embassy in Tokyo that a plane would be ready on Sunday to take them to the United States.",
+      "url": "https://www.nytimes.com/2020/02/15/world/asia/japan-cruise-ship-coronavirus.html",
+      "uri": "nyt://article/2ae1734d-7c29-521f-897c-5badc7612483",
+      "byline": "By Motoko Rich",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T06:03:35-05:00",
+      "created_date": "2020-02-15T01:58:55-05:00",
+      "published_date": "2020-02-15T01:58:55-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Cruises"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Japan",
+        "Yokohama (Japan)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15japan-ship/merlin_168859023_9182b753-3405-4d4e-b665-5ff1c85d4c05-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1380,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Diamond Princess cruise ship docked at Yokohama, Japan, on Friday. More than 200 coronavirus cases have been confirmed on the ship since it was quarantined last week.",
+          "copyright": "Franck Robichon/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15japan-ship/merlin_168859023_9182b753-3405-4d4e-b665-5ff1c85d4c05-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Diamond Princess cruise ship docked at Yokohama, Japan, on Friday. More than 200 coronavirus cases have been confirmed on the ship since it was quarantined last week.",
+          "copyright": "Franck Robichon/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15japan-ship/merlin_168859023_9182b753-3405-4d4e-b665-5ff1c85d4c05-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Diamond Princess cruise ship docked at Yokohama, Japan, on Friday. More than 200 coronavirus cases have been confirmed on the ship since it was quarantined last week.",
+          "copyright": "Franck Robichon/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15japan-ship/merlin_168859023_9182b753-3405-4d4e-b665-5ff1c85d4c05-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Diamond Princess cruise ship docked at Yokohama, Japan, on Friday. More than 200 coronavirus cases have been confirmed on the ship since it was quarantined last week.",
+          "copyright": "Franck Robichon/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15japan-ship/merlin_168859023_9182b753-3405-4d4e-b665-5ff1c85d4c05-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Diamond Princess cruise ship docked at Yokohama, Japan, on Friday. More than 200 coronavirus cases have been confirmed on the ship since it was quarantined last week.",
+          "copyright": "Franck Robichon/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/3bxTN8q"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "‘Thermometer Guns’ on Coronavirus Front Lines Are ‘Notoriously Not Accurate’",
+      "abstract": "Chinese authorities are using infrared thermometers to screen people for the illness, as the devices have become synonymous with trying to contain deadly outbreaks.",
+      "url": "https://www.nytimes.com/2020/02/14/business/coronavirus-temperature-sensor-guns.html",
+      "uri": "nyt://article/96060d23-1ac2-5b98-a8f5-5bb97278120b",
+      "byline": "By David Yaffe-Bellany",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:54:50-05:00",
+      "created_date": "2020-02-14T05:00:40-05:00",
+      "published_date": "2020-02-14T05:00:40-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Thermometers",
+        "Coronavirus (2019-nCoV)",
+        "Fever"
+      ],
+      "org_facet": [
+        "Infrared Cameras, Inc."
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/business/14virus-tempgun-2/14virus-tempgun-2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The “thermometer guns” are not always held close enough to the subject’s forehead.",
+          "copyright": "Kevin Frayer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/business/14virus-tempgun-2/14virus-tempgun-2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The “thermometer guns” are not always held close enough to the subject’s forehead.",
+          "copyright": "Kevin Frayer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/business/14virus-tempgun-2/14virus-tempgun-2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The “thermometer guns” are not always held close enough to the subject’s forehead.",
+          "copyright": "Kevin Frayer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/business/14virus-tempgun-2/14virus-tempgun-2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The “thermometer guns” are not always held close enough to the subject’s forehead.",
+          "copyright": "Kevin Frayer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/business/14virus-tempgun-2/14virus-tempgun-2-articleInline.jpg",
+          "format": "Normal",
+          "height": 135,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The “thermometer guns” are not always held close enough to the subject’s forehead.",
+          "copyright": "Kevin Frayer/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3bHBw91"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "William Barr Moves to Take the Reins of Politically Charged Cases",
+      "abstract": "Amid mounting furor over politicization at the Justice Department, the attorney general ordered reviews of such investigations and prosecutions.",
+      "url": "https://www.nytimes.com/2020/02/14/us/politics/andrew-mccabe-william-barr-flynn.html",
+      "uri": "nyt://article/28412357-c9c2-5c77-8680-93c74691635a",
+      "byline": "By Charlie Savage and Adam Goldman",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:54:44-05:00",
+      "created_date": "2020-02-14T19:52:14-05:00",
+      "published_date": "2020-02-14T19:52:14-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "United States Politics and Government",
+        "United States Attorneys",
+        "Special Prosecutors (Independent Counsel)"
+      ],
+      "org_facet": [
+        "Justice Department",
+        "Federal Bureau of Investigation"
+      ],
+      "per_facet": [
+        "Barr, William P",
+        "Flynn, Michael T",
+        "McCabe, Andrew G",
+        "Mueller, Robert S III",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14dc-justice1/merlin_168479784_9bfaeb0c-5841-49af-9990-57609a8857d9-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attorney General William P. Barr demanded that President Trump stop commenting on the work of law enforcement officials.",
+          "copyright": "Cliff Owen/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14dc-justice1/14dc-justice1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attorney General William P. Barr demanded that President Trump stop commenting on the work of law enforcement officials.",
+          "copyright": "Cliff Owen/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14dc-justice1/14dc-justice1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attorney General William P. Barr demanded that President Trump stop commenting on the work of law enforcement officials.",
+          "copyright": "Cliff Owen/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14dc-justice1/merlin_168479784_9bfaeb0c-5841-49af-9990-57609a8857d9-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attorney General William P. Barr demanded that President Trump stop commenting on the work of law enforcement officials.",
+          "copyright": "Cliff Owen/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14dc-justice1/merlin_168479784_9bfaeb0c-5841-49af-9990-57609a8857d9-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attorney General William P. Barr demanded that President Trump stop commenting on the work of law enforcement officials.",
+          "copyright": "Cliff Owen/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/39Ewlor"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "How Trump’s Relationship With Barr Got So Complicated",
+      "abstract": "A whipsaw week of charged decisions by the Justice Department, some favored by the president and others not, has bewildered much of Washington.",
+      "url": "https://www.nytimes.com/2020/02/14/us/politics/trump-william-barr.html",
+      "uri": "nyt://article/6564dedf-0a9c-50e5-bc35-7a382a2e8922",
+      "byline": "By Peter Baker and Michael D. Shear",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:54:43-05:00",
+      "created_date": "2020-02-14T09:41:10-05:00",
+      "published_date": "2020-02-14T09:41:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Barr, William P",
+        "Trump, Donald J",
+        "Stone, Roger J Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14dc-trump-sub/14dc-trump-sub-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump called the Justice Department’s handling of the Roger Stone case “a disgrace.”",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14dc-trump-sub/14dc-trump-sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump called the Justice Department’s handling of the Roger Stone case “a disgrace.”",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14dc-trump-sub/14dc-trump-sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump called the Justice Department’s handling of the Roger Stone case “a disgrace.”",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14dc-trump-sub/14dc-trump-sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump called the Justice Department’s handling of the Roger Stone case “a disgrace.”",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14dc-trump-sub/14dc-trump-sub-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump called the Justice Department’s handling of the Roger Stone case “a disgrace.”",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2URH22P"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Pete Buttigieg’s Dash for Cash: 10 Fund-Raisers in Two Weeks",
+      "abstract": "He leads in the delegate race after Iowa and New Hampshire. But the map is dramatically expanding ahead of Super Tuesday and so are the costs of campaigning.",
+      "url": "https://www.nytimes.com/2020/02/15/us/politics/pete-buttigieg-fundraising.html",
+      "uri": "nyt://article/9240b518-4ea8-50af-9dd8-a1a898994535",
+      "byline": "By Shane Goldmacher",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:54:45-05:00",
+      "created_date": "2020-02-15T05:00:18-05:00",
+      "published_date": "2020-02-15T05:00:18-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Primaries and Caucuses",
+        "Campaign Finance",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Beyer, Donald S Jr",
+        "Biden, Joseph R Jr",
+        "Bloomberg, Michael R",
+        "Buttigieg, Chasten",
+        "Buttigieg, Pete (1982- )",
+        "Sanders, Bernard",
+        "Steyer, Thomas F"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/15buttigieg-cash-1/merlin_168805749_d622f30d-2cbd-4ab9-861e-0e436bd4ec4e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pete Buttigieg at his primary night rally in Nashua, N.H., on Tuesday. Mr. Buttigieg’s frenetic fund-raising pace could open him up to criticism from progressives that he is the preferred candidate of the wealthy.",
+          "copyright": "Tamir Kalifa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/15buttigieg-cash-1/-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pete Buttigieg at his primary night rally in Nashua, N.H., on Tuesday. Mr. Buttigieg’s frenetic fund-raising pace could open him up to criticism from progressives that he is the preferred candidate of the wealthy.",
+          "copyright": "Tamir Kalifa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/15buttigieg-cash-1/-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pete Buttigieg at his primary night rally in Nashua, N.H., on Tuesday. Mr. Buttigieg’s frenetic fund-raising pace could open him up to criticism from progressives that he is the preferred candidate of the wealthy.",
+          "copyright": "Tamir Kalifa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/15buttigieg-cash-1/-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pete Buttigieg at his primary night rally in Nashua, N.H., on Tuesday. Mr. Buttigieg’s frenetic fund-raising pace could open him up to criticism from progressives that he is the preferred candidate of the wealthy.",
+          "copyright": "Tamir Kalifa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/15buttigieg-cash-1/merlin_168805749_d622f30d-2cbd-4ab9-861e-0e436bd4ec4e-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pete Buttigieg at his primary night rally in Nashua, N.H., on Tuesday. Mr. Buttigieg’s frenetic fund-raising pace could open him up to criticism from progressives that he is the preferred candidate of the wealthy.",
+          "copyright": "Tamir Kalifa for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2wkRe9J"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Ads in Spanish, Obama Cameos: The Democratic Ad Race in Nevada and South Carolina",
+      "abstract": "The battle for momentum in the two states could prove pivotal. Here’s how the candidates are making their pitches.",
+      "url": "https://www.nytimes.com/2020/02/14/us/politics/nv-sc-political-campaign-advertising.html",
+      "uri": "nyt://article/12e2ac87-2fd5-539e-954f-4dc28e581fd2",
+      "byline": "By Nick Corasaniti",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:54:44-05:00",
+      "created_date": "2020-02-14T19:01:57-05:00",
+      "published_date": "2020-02-14T19:01:57-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Primaries and Caucuses",
+        "Presidential Election of 2020",
+        "Political Advertising"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Nevada",
+        "South Carolina"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14NEVADA-SC-AD-QUAD/4NEVADA-SC-AD-QUAD-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Four ads featuring Barack Obama, from Joseph R. Biden Jr., Elizabeth Warren, Michael R. Bloomberg and Tom Steyer.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14NEVADA-SC-AD-QUAD/14NEVADA-SC-AD-QUAD-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Four ads featuring Barack Obama, from Joseph R. Biden Jr., Elizabeth Warren, Michael R. Bloomberg and Tom Steyer.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14NEVADA-SC-AD-QUAD/14NEVADA-SC-AD-QUAD-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Four ads featuring Barack Obama, from Joseph R. Biden Jr., Elizabeth Warren, Michael R. Bloomberg and Tom Steyer.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14NEVADA-SC-AD-QUAD/4NEVADA-SC-AD-QUAD-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Four ads featuring Barack Obama, from Joseph R. Biden Jr., Elizabeth Warren, Michael R. Bloomberg and Tom Steyer.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14NEVADA-SC-AD-QUAD/4NEVADA-SC-AD-QUAD-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Four ads featuring Barack Obama, from Joseph R. Biden Jr., Elizabeth Warren, Michael R. Bloomberg and Tom Steyer.",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/38vkqc7"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "The Fallout From New Hampshire: This Week in the 2020 Race",
+      "abstract": "There are “only” eight candidates left in the Democratic primary and we still do not know who won Iowa. Here is a recap of what you might have missed from a busy week in the Democratic primary.",
+      "url": "https://www.nytimes.com/2020/02/15/us/politics/the-fallout-from-new-hampshire-this-week-in-the-2020-race.html",
+      "uri": "nyt://article/fb3f2e6d-7211-592a-b36e-159da7c117bd",
+      "byline": "By Matt Stevens and Maggie Astor",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:54:45-05:00",
+      "created_date": "2020-02-15T05:00:10-05:00",
+      "published_date": "2020-02-15T05:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Primaries and Caucuses"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Sanders, Bernard",
+        "Buttigieg, Pete (1982- )",
+        "Klobuchar, Amy",
+        "Warren, Elizabeth",
+        "Biden, Joseph R Jr",
+        "Bloomberg, Michael R"
+      ],
+      "geo_facet": [
+        "New Hampshire",
+        "Iowa",
+        "Nevada"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/us/politics/15moments-2/merlin_168773856_53e9ae57-fafd-4964-88a6-1f5607f8008d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Campaign signs in Concord, N.H. on Tuesday.",
+          "copyright": "Elizabeth Frantz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/us/politics/15moments-2/merlin_168773856_53e9ae57-fafd-4964-88a6-1f5607f8008d-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Campaign signs in Concord, N.H. on Tuesday.",
+          "copyright": "Elizabeth Frantz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/us/politics/15moments-2/merlin_168773856_53e9ae57-fafd-4964-88a6-1f5607f8008d-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Campaign signs in Concord, N.H. on Tuesday.",
+          "copyright": "Elizabeth Frantz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/us/politics/15moments-2/merlin_168773856_53e9ae57-fafd-4964-88a6-1f5607f8008d-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Campaign signs in Concord, N.H. on Tuesday.",
+          "copyright": "Elizabeth Frantz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/us/politics/15moments-2/merlin_168773856_53e9ae57-fafd-4964-88a6-1f5607f8008d-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Campaign signs in Concord, N.H. on Tuesday.",
+          "copyright": "Elizabeth Frantz for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SJG0mN"
+    },
+    {
+      "section": "world",
+      "subsection": "australia",
+      "title": "The End of Australia as We Know It",
+      "abstract": "What many of us have witnessed this fire season feels alive and monstrous. With climate change forcing a relaxed country to stumble toward new ways of work, leisure and life, will politics follow?",
+      "url": "https://www.nytimes.com/2020/02/15/world/australia/fires-climate-change.html",
+      "uri": "nyt://article/5d4e8879-5c2c-52a4-9895-868ddcc35e1a",
+      "byline": "By Damien Cave and Matthew Abbott",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:54:44-05:00",
+      "created_date": "2020-02-15T05:00:20-05:00",
+      "published_date": "2020-02-15T05:00:20-05:00",
+      "material_type_facet": "",
+      "kicker": "Reporter’s Notebook",
+      "des_facet": [
+        "Wildfires",
+        "Fires and Firefighters",
+        "Global Warming"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Cannon-Brookes, Mike",
+        "Keneally, Thomas"
+      ],
+      "geo_facet": [
+        "Australia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/07/world/00oz-doom-1-promo/merlin_168211200_1d211133-30ba-41cb-8dea-a1f2959de175-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Firefighters on the outskirts of Bredbo, New South Wales, Australia, last week.",
+          "copyright": "Matthew Abbott for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/07/world/00oz-doom-1-promo/00oz-doom-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Firefighters on the outskirts of Bredbo, New South Wales, Australia, last week.",
+          "copyright": "Matthew Abbott for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/07/world/00oz-doom-1-promo/00oz-doom-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Firefighters on the outskirts of Bredbo, New South Wales, Australia, last week.",
+          "copyright": "Matthew Abbott for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/07/world/00oz-doom-1-promo/merlin_168211200_1d211133-30ba-41cb-8dea-a1f2959de175-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Firefighters on the outskirts of Bredbo, New South Wales, Australia, last week.",
+          "copyright": "Matthew Abbott for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/07/world/00oz-doom-1-promo/merlin_168211200_1d211133-30ba-41cb-8dea-a1f2959de175-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Firefighters on the outskirts of Bredbo, New South Wales, Australia, last week.",
+          "copyright": "Matthew Abbott for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2UZL1uh"
+    },
+    {
+      "section": "the-weekly",
+      "subsection": "",
+      "title": "How a Hong Kong Campus Became a Fiery Battlefield",
+      "abstract": "Watch video from behind the front lines of the police crackdown on protesters at Hong Kong Polytechnic University last year.",
+      "url": "https://www.nytimes.com/2020/02/14/the-weekly/hong-kong-protest-polyu.html",
+      "uri": "nyt://article/a262b7c7-2e1d-54c9-a25b-a941402df4f5",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:54:49-05:00",
+      "created_date": "2020-02-14T05:00:23-05:00",
+      "published_date": "2020-02-14T05:00:23-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Hong Kong Protests (2019)",
+        "The Weekly (TV Program)"
+      ],
+      "org_facet": [
+        "Hong Kong Polytechnic University",
+        "FX (TV Network)",
+        "Hulu.com"
+      ],
+      "per_facet": [
+        "Xi Jinping"
+      ],
+      "geo_facet": [
+        "Hong Kong"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/universal/14theweekly-hongkong-promopic3/14theweekly-hongkong-promopic3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lam Yik Fei for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/universal/14theweekly-hongkong-promopic3/14theweekly-hongkong-promopic3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lam Yik Fei for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/universal/14theweekly-hongkong-promopic3/14theweekly-hongkong-promopic3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lam Yik Fei for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/universal/14theweekly-hongkong-promopic3/14theweekly-hongkong-promopic3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lam Yik Fei for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/universal/14theweekly-hongkong-promopic3/14theweekly-hongkong-promopic3-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lam Yik Fei for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2uIzNPO"
+    },
+    {
+      "section": "briefing",
+      "subsection": "",
+      "title": "News Quiz: New Hampshire Primary, Coronavirus, Oscars",
+      "abstract": "Did you follow the headlines this week?",
+      "url": "https://www.nytimes.com/interactive/2020/02/14/briefing/new-hampshire-primary-coronavirus-oscars-news-quiz.html",
+      "uri": "nyt://interactive/e34072ca-7988-5d36-baa3-243f1fd537ca",
+      "byline": "Compiled by Chris Stanford, Will Dudding and Anna Schaverien",
+      "item_type": "Interactive",
+      "updated_date": "2020-02-15T05:35:07-05:00",
+      "created_date": "2020-02-14T03:30:01-05:00",
+      "published_date": "2020-02-14T03:30:01-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/us/politics/14newsquiz-voting2/merlin_168770616_1537973d-ef5d-4e2a-b965-6be72e2a78c7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A polling station in Rye, N.H., on Tuesday.",
+          "copyright": "Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/us/politics/14newsquiz-voting2/12turnout-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A polling station in Rye, N.H., on Tuesday.",
+          "copyright": "Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/us/politics/14newsquiz-voting2/12turnout-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A polling station in Rye, N.H., on Tuesday.",
+          "copyright": "Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/us/politics/14newsquiz-voting2/merlin_168770616_1537973d-ef5d-4e2a-b965-6be72e2a78c7-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A polling station in Rye, N.H., on Tuesday.",
+          "copyright": "Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/us/politics/14newsquiz-voting2/merlin_168770616_1537973d-ef5d-4e2a-b965-6be72e2a78c7-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A polling station in Rye, N.H., on Tuesday.",
+          "copyright": "Chang W. Lee/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/37wcxCh"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "Modern Love Podcast: Tiny Love Stories Read by the People Who Wrote Them",
+      "abstract": "In a special Valentine’s Day episode, authors share their love stories in no more than 100 words.",
+      "url": "https://www.nytimes.com/2020/02/14/style/modern-love-podcast-tiny-love-stories-read-by-the-people-who-wrote-them.html",
+      "uri": "nyt://article/e3746f68-6a39-586f-bf09-d583cd32e978",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T16:11:21-05:00",
+      "created_date": "2020-02-14T14:34:31-05:00",
+      "published_date": "2020-02-14T14:34:31-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Love (Emotion)",
+        "Podcasts",
+        "Valentine's Day",
+        "Modern Love (Times Column)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/03/11/fashion/00TINYLOVE-TOPART4/00TINYLOVE-TOPART4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 524,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/03/11/fashion/00TINYLOVE-TOPART4/00TINYLOVE-TOPART4-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/03/11/fashion/00TINYLOVE-TOPART4/00TINYLOVE-TOPART4-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/03/11/fashion/00TINYLOVE-TOPART4/00TINYLOVE-TOPART4-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/03/11/fashion/00TINYLOVE-TOPART4/00TINYLOVE-TOPART4-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea"
+        }
+      ],
+      "short_url": "https://nyti.ms/31T3Qk2"
+    },
+    {
+      "section": "podcasts",
+      "subsection": "",
+      "title": "A Question That Almost Went Unasked",
+      "abstract": "Our interview with the woman defending Harvey Weinstein.",
+      "url": "https://www.nytimes.com/2020/02/14/podcasts/daily-newsletter-weinstein-trial-coronavirus.html",
+      "uri": "nyt://article/4e15dfb8-e5bc-5421-9092-464a0196bf4c",
+      "byline": "By Megan Twohey",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T22:13:32-05:00",
+      "created_date": "2020-02-14T17:01:00-05:00",
+      "published_date": "2020-02-14T17:01:00-05:00",
+      "material_type_facet": "",
+      "kicker": "THE DAILY NEWSLETTER",
+      "des_facet": [
+        "The Daily (Radio Program)",
+        "Podcasts",
+        "Newsletters"
+      ],
+      "org_facet": [
+        "New York Times"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/nyregion/00214rotunno2/00214rotunno2-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donna Rotunno, Harvey Weinstein&rsquo;s lead defense lawyer.",
+          "copyright": "Carlo Allegri/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/nyregion/00214rotunno2/00214rotunno2-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donna Rotunno, Harvey Weinstein&rsquo;s lead defense lawyer.",
+          "copyright": "Carlo Allegri/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/nyregion/00214rotunno2/00214rotunno2-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donna Rotunno, Harvey Weinstein&rsquo;s lead defense lawyer.",
+          "copyright": "Carlo Allegri/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/nyregion/00214rotunno2/00214rotunno2-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donna Rotunno, Harvey Weinstein&rsquo;s lead defense lawyer.",
+          "copyright": "Carlo Allegri/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/nyregion/00214rotunno2/00214rotunno2-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donna Rotunno, Harvey Weinstein&rsquo;s lead defense lawyer.",
+          "copyright": "Carlo Allegri/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/39wmeBK"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Are We Headed for a Bernie Sweep?",
+      "abstract": "And should we cancel Valentine’s Day?",
+      "url": "https://www.nytimes.com/2020/02/13/opinion/the-argument-bernie-sanders-new-hampshire.html",
+      "uri": "nyt://article/642914da-4ffa-5365-bf7b-2a074f0c8de9",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T16:11:23-05:00",
+      "created_date": "2020-02-13T05:00:25-05:00",
+      "published_date": "2020-02-13T05:00:25-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Primaries and Caucuses",
+        "Voting and Voters",
+        "Valentine's Day",
+        "Presidential Election of 2016",
+        "Conservatism (US Politics)",
+        "Liberalism (US Politics)"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Sanders, Bernard",
+        "Barr, William P",
+        "Stone, Roger J Jr",
+        "Bloomberg, Michael R",
+        "Buttigieg, Pete (1982- )",
+        "Klobuchar, Amy",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "New Hampshire"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/opinion/13argument-sixtysix/13argument-sixtysix-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1463,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Bernie Sanders of Vermont, 2020 Democratic presidential candidate, spoke on primary night in Manchester, N.H., on Tuesday.",
+          "copyright": "Justin Lane/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/opinion/13argument-sixtysix/13argument-sixtysix-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Bernie Sanders of Vermont, 2020 Democratic presidential candidate, spoke on primary night in Manchester, N.H., on Tuesday.",
+          "copyright": "Justin Lane/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/opinion/13argument-sixtysix/13argument-sixtysix-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Bernie Sanders of Vermont, 2020 Democratic presidential candidate, spoke on primary night in Manchester, N.H., on Tuesday.",
+          "copyright": "Justin Lane/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/opinion/13argument-sixtysix/13argument-sixtysix-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Bernie Sanders of Vermont, 2020 Democratic presidential candidate, spoke on primary night in Manchester, N.H., on Tuesday.",
+          "copyright": "Justin Lane/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/opinion/13argument-sixtysix/13argument-sixtysix-articleInline.jpg",
+          "format": "Normal",
+          "height": 136,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Bernie Sanders of Vermont, 2020 Democratic presidential candidate, spoke on primary night in Manchester, N.H., on Tuesday.",
+          "copyright": "Justin Lane/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/2UUkVse"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "Who’s Profiting From Your Outrageous Medical Bills?",
+      "abstract": "The same people who should be fixing them.",
+      "url": "https://www.nytimes.com/2020/02/14/opinion/sunday/surprise-medical-billing.html",
+      "uri": "nyt://article/b7a811af-35bf-5928-8844-b363d925aef0",
+      "byline": "By Elisabeth Rosenthal",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T23:29:07-05:00",
+      "created_date": "2020-02-14T05:00:32-05:00",
+      "published_date": "2020-02-14T05:00:32-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Health Insurance and Managed Care",
+        "Law and Legislation"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16rosenthal-sub/16rosenthal-sub-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2032,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michael George Haddad"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16rosenthal-sub/16rosenthal-sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michael George Haddad"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16rosenthal-sub/16rosenthal-sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michael George Haddad"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16rosenthal-sub/16rosenthal-sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michael George Haddad"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16rosenthal-sub/16rosenthal-sub-articleInline.jpg",
+          "format": "Normal",
+          "height": 193,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michael George Haddad"
+        }
+      ],
+      "short_url": "https://nyti.ms/2vuJKk0"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "California Takes Revenge on Trump",
+      "abstract": "People leaving the Golden State are changing the political makeup of the states they move to.",
+      "url": "https://www.nytimes.com/2020/02/14/opinion/california-revenge-trump.html",
+      "uri": "nyt://article/19848c90-ca96-556c-9cfe-7eecd73d2d6a",
+      "byline": "By Timothy Egan",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T23:24:38-05:00",
+      "created_date": "2020-02-14T05:19:26-05:00",
+      "published_date": "2020-02-14T05:19:26-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "States (US)",
+        "Presidential Election of 2020",
+        "Primaries and Caucuses"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "California",
+        "Arizona",
+        "Texas",
+        "Colorado",
+        "Nevada"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14eganWeb/14eganWeb-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A moving van being loaded in Tiburon, Calif.",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14eganWeb/14eganWeb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A moving van being loaded in Tiburon, Calif.",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14eganWeb/14eganWeb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A moving van being loaded in Tiburon, Calif.",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14eganWeb/14eganWeb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A moving van being loaded in Tiburon, Calif.",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14eganWeb/14eganWeb-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A moving van being loaded in Tiburon, Calif.",
+          "copyright": "Justin Sullivan/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/39KcAfh"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Right’s Big Lie About Roger Stone",
+      "abstract": "Trump allies are saying Stone didn’t really threaten a witness. They’re wrong.",
+      "url": "https://www.nytimes.com/2020/02/14/opinion/roger-stone-randy-credico.html",
+      "uri": "nyt://article/a518d8a4-c4ac-5c51-a004-79aa318d6271",
+      "byline": "By Michelle Goldberg",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T23:24:38-05:00",
+      "created_date": "2020-02-14T05:19:17-05:00",
+      "published_date": "2020-02-14T05:19:17-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "United States Politics and Government",
+        "Crime and Criminals",
+        "United States Attorneys",
+        "Witnesses"
+      ],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Barr, William P",
+        "Credico, Randolph A (1954- )",
+        "Stone, Roger J Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/16goldberg/merlin_151015389_5b5159ca-17c4-4421-956e-3cad60a82ae5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1336,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "T.J. Kirkpatrick for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/16goldberg/13justice_editorial-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "T.J. Kirkpatrick for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/16goldberg/13justice_editorial-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "T.J. Kirkpatrick for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/16goldberg/13justice_editorial-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "T.J. Kirkpatrick for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/16goldberg/merlin_151015389_5b5159ca-17c4-4421-956e-3cad60a82ae5-articleInline.jpg",
+          "format": "Normal",
+          "height": 124,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "T.J. Kirkpatrick for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/39KczIf"
+    },
+    {
+      "section": "opinion",
+      "subsection": "editorials",
+      "title": "The President Takes a Campaign Donation From the Pentagon",
+      "abstract": "To keep a promise as he runs for re-election, Trump uses more military funds to pay for the border wall.",
+      "url": "https://www.nytimes.com/2020/02/14/opinion/editorials/trump-wall-cuts.html",
+      "uri": "nyt://article/eae24077-1ad1-50f3-8e3b-ed189c634e61",
+      "byline": "By The Editorial Board",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T23:29:41-05:00",
+      "created_date": "2020-02-14T20:44:45-05:00",
+      "published_date": "2020-02-14T20:44:45-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Illegal Immigration",
+        "Border Barriers",
+        "Drug Abuse and Traffic",
+        "Federal Budget (US)"
+      ],
+      "org_facet": [
+        "Defense Department",
+        "Homeland Security Department"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14wallmoney1/14wallmoney1-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1616,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Donald Trump tours a section of the southern border wall in Otay Mesa, Calif. in September 2019.",
+          "copyright": "Evan Vucci/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14wallmoney1/14wallmoney1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Donald Trump tours a section of the southern border wall in Otay Mesa, Calif. in September 2019.",
+          "copyright": "Evan Vucci/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14wallmoney1/14wallmoney1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Donald Trump tours a section of the southern border wall in Otay Mesa, Calif. in September 2019.",
+          "copyright": "Evan Vucci/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14wallmoney1/14wallmoney1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Donald Trump tours a section of the southern border wall in Otay Mesa, Calif. in September 2019.",
+          "copyright": "Evan Vucci/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14wallmoney1/14wallmoney1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 150,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Donald Trump tours a section of the southern border wall in Otay Mesa, Calif. in September 2019.",
+          "copyright": "Evan Vucci/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Su2eKH"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "In Marriage, It’s Not About the Dishes. It’s About Respect.",
+      "abstract": "Readers share tips for avoiding the pitfalls of gender stereotypes in relationships.",
+      "url": "https://www.nytimes.com/2020/02/14/opinion/marriage-happiness-gender-housework.html",
+      "uri": "nyt://article/363f247c-739b-555d-9669-c81d9d68da1d",
+      "byline": "By Rachel L. Harris and Lisa Tarchak",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T23:24:39-05:00",
+      "created_date": "2020-02-14T19:01:06-05:00",
+      "published_date": "2020-02-14T19:01:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dating and Relationships",
+        "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+        "Parenting"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16CoontzSpread/16CoontzSpread-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bráulio Amado and Jordy van den Nieuwendijk"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16CoontzSpread/16CoontzSpread-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bráulio Amado and Jordy van den Nieuwendijk"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16CoontzSpread/16CoontzSpread-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bráulio Amado and Jordy van den Nieuwendijk"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16CoontzSpread/16CoontzSpread-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bráulio Amado and Jordy van den Nieuwendijk"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16CoontzSpread/16CoontzSpread-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bráulio Amado and Jordy van den Nieuwendijk"
+        }
+      ],
+      "short_url": "https://nyti.ms/39GO8eJ"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Progressive Lane Narrows",
+      "abstract": "Bernie Sanders and Elizabeth Warren probably both can’t squeeze through.",
+      "url": "https://www.nytimes.com/2020/02/14/opinion/sanders-warren-2020.html",
+      "uri": "nyt://article/bdf8e438-366a-5ab4-8ac4-60f319360585",
+      "byline": "By Michelle Cottle",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T23:24:42-05:00",
+      "created_date": "2020-02-14T17:51:06-05:00",
+      "published_date": "2020-02-14T17:51:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Primaries and Caucuses"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Sanders, Bernard",
+        "Trump, Donald J",
+        "Warren, Elizabeth"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/opinion/15progressive/15progressive-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photographs by Elizabeth Frantz for The New York Times and Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/opinion/15progressive/15progressive-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photographs by Elizabeth Frantz for The New York Times and Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/opinion/15progressive/15progressive-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photographs by Elizabeth Frantz for The New York Times and Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/opinion/15progressive/15progressive-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photographs by Elizabeth Frantz for The New York Times and Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/opinion/15progressive/15progressive-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photographs by Elizabeth Frantz for The New York Times and Chang W. Lee/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SIL4rz"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "There Have Been 10 Black Senators Since Emancipation",
+      "abstract": "Elected 150 years ago, Hiram Revels was the first.",
+      "url": "https://www.nytimes.com/2020/02/14/opinion/sunday/hiram-revels-reconstruction-150.html",
+      "uri": "nyt://article/149bf227-b9c2-5b79-89e6-f4c21ba6d371",
+      "byline": "By Eric Foner",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T23:24:44-05:00",
+      "created_date": "2020-02-14T16:00:13-05:00",
+      "published_date": "2020-02-14T16:00:13-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Black People",
+        "Discrimination",
+        "Race and Ethnicity",
+        "Elections, Senate",
+        "United States Politics and Government",
+        "Slavery (Historical)",
+        "Reconstruction Era"
+      ],
+      "org_facet": [
+        "Senate"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16Foner/16Foner-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1544,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Hiram Rhodes Revels.",
+          "copyright": "Mathew B. Brady/Library of Congress, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16Foner/16Foner-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Hiram Rhodes Revels.",
+          "copyright": "Mathew B. Brady/Library of Congress, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16Foner/16Foner-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Hiram Rhodes Revels.",
+          "copyright": "Mathew B. Brady/Library of Congress, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16Foner/16Foner-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Hiram Rhodes Revels.",
+          "copyright": "Mathew B. Brady/Library of Congress, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/opinion/sunday/16Foner/16Foner-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 252,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Hiram Rhodes Revels.",
+          "copyright": "Mathew B. Brady/Library of Congress, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SN7d7Y"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Coronavirus Story Is Too Big for China to Spin",
+      "abstract": "Maybe what goes up online must come down, but what comes down will go up again.",
+      "url": "https://www.nytimes.com/2020/02/14/opinion/china-coronavirus-social-media.html",
+      "uri": "nyt://article/4df5f116-e3d4-56bc-aee4-1aba16ecd370",
+      "byline": "By Kiki Zhao",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T23:24:43-05:00",
+      "created_date": "2020-02-14T05:01:06-05:00",
+      "published_date": "2020-02-14T05:01:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Politics and Government",
+        "Social Media",
+        "News and News Media",
+        "Epidemics",
+        "Censorship"
+      ],
+      "org_facet": [
+        "Communist Party of China"
+      ],
+      "per_facet": [
+        "Li Wenliang"
+      ],
+      "geo_facet": [
+        "China",
+        "Wuhan (China)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14Zhao/14Zhao-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vigil in Hong Kong on Feb. 7, the day that Li Wenliang, a doctor who was reprimanded for warning about the coronavirus, died after being infected with it.",
+          "copyright": "Anthony Wallace/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14Zhao/14Zhao-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vigil in Hong Kong on Feb. 7, the day that Li Wenliang, a doctor who was reprimanded for warning about the coronavirus, died after being infected with it.",
+          "copyright": "Anthony Wallace/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14Zhao/14Zhao-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vigil in Hong Kong on Feb. 7, the day that Li Wenliang, a doctor who was reprimanded for warning about the coronavirus, died after being infected with it.",
+          "copyright": "Anthony Wallace/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14Zhao/14Zhao-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vigil in Hong Kong on Feb. 7, the day that Li Wenliang, a doctor who was reprimanded for warning about the coronavirus, died after being infected with it.",
+          "copyright": "Anthony Wallace/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14Zhao/14Zhao-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vigil in Hong Kong on Feb. 7, the day that Li Wenliang, a doctor who was reprimanded for warning about the coronavirus, died after being infected with it.",
+          "copyright": "Anthony Wallace/Agence France-Presse &mdash; Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2uK6k8g"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Trump’s Whisper Network",
+      "abstract": "What happens when the left cedes the free speech high ground?",
+      "url": "https://www.nytimes.com/2020/02/14/opinion/trump-voters-2020.html",
+      "uri": "nyt://article/5fc9bb67-9472-5b88-ac17-370bd7c59646",
+      "byline": "By Bret Stephens",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T23:24:42-05:00",
+      "created_date": "2020-02-14T20:11:03-05:00",
+      "published_date": "2020-02-14T20:11:03-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "#MeToo Movement",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14stephens1/merlin_168747960_685b06e6-555a-44f2-8b9d-651ede7e6268-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A supporter waited for the start of President Trump’s rally at the SNHU Arena in Manchester, N.H., on Monday.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14stephens1/14stephens1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A supporter waited for the start of President Trump’s rally at the SNHU Arena in Manchester, N.H., on Monday.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14stephens1/14stephens1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A supporter waited for the start of President Trump’s rally at the SNHU Arena in Manchester, N.H., on Monday.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14stephens1/merlin_168747960_685b06e6-555a-44f2-8b9d-651ede7e6268-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A supporter waited for the start of President Trump’s rally at the SNHU Arena in Manchester, N.H., on Monday.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14stephens1/merlin_168747960_685b06e6-555a-44f2-8b9d-651ede7e6268-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A supporter waited for the start of President Trump’s rally at the SNHU Arena in Manchester, N.H., on Monday.",
+          "copyright": "Damon Winter/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SJNaY1"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Trump’s Policy on New York’s ‘Trusted Travelers’ Is Unconstitutional",
+      "abstract": "People should never be punished for things they haven’t done.",
+      "url": "https://www.nytimes.com/2020/02/14/opinion/trusted-travelers-new-york.html",
+      "uri": "nyt://article/8a986043-1ffc-5136-8f94-e4acf6deea8e",
+      "byline": "By Laurence H. Tribe",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T23:24:42-05:00",
+      "created_date": "2020-02-14T05:00:19-05:00",
+      "published_date": "2020-02-14T05:00:19-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Airport Security",
+        "Law and Legislation",
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "Homeland Security Department"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14Tribe/14Tribe-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Department of Homeland Security recently barred New Yorkers from enrolling in “trusted travelers” programs.",
+          "copyright": "Reed Saxon/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14Tribe/14Tribe-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Department of Homeland Security recently barred New Yorkers from enrolling in “trusted travelers” programs.",
+          "copyright": "Reed Saxon/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14Tribe/14Tribe-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Department of Homeland Security recently barred New Yorkers from enrolling in “trusted travelers” programs.",
+          "copyright": "Reed Saxon/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14Tribe/14Tribe-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Department of Homeland Security recently barred New Yorkers from enrolling in “trusted travelers” programs.",
+          "copyright": "Reed Saxon/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14Tribe/14Tribe-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Department of Homeland Security recently barred New Yorkers from enrolling in “trusted travelers” programs.",
+          "copyright": "Reed Saxon/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2w8YZiP"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "President Bukele, Brute Force Is Not the Way Forward for El Salvador",
+      "abstract": "The head of state’s actions threaten democracy in the Central American nation.",
+      "url": "https://www.nytimes.com/2020/02/14/opinion/bukele-el-salvador.html",
+      "uri": "nyt://article/626d6b80-f852-5155-a97d-3ff55bc25cb6",
+      "byline": "By José Miguel Vivanco",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T23:24:42-05:00",
+      "created_date": "2020-02-14T05:00:18-05:00",
+      "published_date": "2020-02-14T05:00:18-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "Organization of American States"
+      ],
+      "per_facet": [
+        "Bukele, Nayib"
+      ],
+      "geo_facet": [
+        "El Salvador"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14vivanco/14vivanco-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Armed Special Forces soldiers of the Salvadoran Army in the Legislative Assembly building on Sunday.",
+          "copyright": "Salvador Melendez/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14vivanco/14vivanco-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Armed Special Forces soldiers of the Salvadoran Army in the Legislative Assembly building on Sunday.",
+          "copyright": "Salvador Melendez/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14vivanco/14vivanco-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Armed Special Forces soldiers of the Salvadoran Army in the Legislative Assembly building on Sunday.",
+          "copyright": "Salvador Melendez/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14vivanco/14vivanco-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Armed Special Forces soldiers of the Salvadoran Army in the Legislative Assembly building on Sunday.",
+          "copyright": "Salvador Melendez/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/opinion/14vivanco/14vivanco-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Armed Special Forces soldiers of the Salvadoran Army in the Legislative Assembly building on Sunday.",
+          "copyright": "Salvador Melendez/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3bBogTd"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "The Guerrilla Car Washers of N.Y.C.",
+      "abstract": "Development is finally coming to the top of Manhattan. Are its carwash vans doomed?",
+      "url": "https://www.nytimes.com/2020/02/14/nyregion/nyc-mobile-car-wash.html",
+      "uri": "nyt://article/bdf98af7-34c1-55a3-a92e-6ecd399900db",
+      "byline": "By Sandra E. Garcia and Stephen Speranza",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:43:11-05:00",
+      "created_date": "2020-02-14T05:00:51-05:00",
+      "published_date": "2020-02-14T05:00:51-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Car Washes",
+        "Labor and Jobs",
+        "Automobiles",
+        "Zoning",
+        "Dominican-Americans",
+        "your-feed-onlyinnewyork"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Rodriguez, Ydanis"
+      ],
+      "geo_facet": [
+        "Inwood (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/11/25/nyregion/00carwashersHPpromoStill/00carwashersHPpromoStill-superJumbo-v4.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stephen Speranza for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/11/25/nyregion/00carwashersHPpromoStill/00carwashers1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stephen Speranza for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/11/25/nyregion/00carwashersHPpromoStill/00carwashers1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stephen Speranza for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/11/25/nyregion/00carwashersHPpromoStill/00carwashers1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stephen Speranza for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/11/25/nyregion/00carwashersHPpromoStill/00carwashersHPpromoStill-articleInline-v4.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stephen Speranza for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2UUpAKT"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "When America’s Oddest Political Couple Fight, Those Sparks Are Real",
+      "abstract": "The public struggles of White House adviser Kellyanne Conway and her husband, George T. Conway III, are not shtick, friends say, and they are not having fun.",
+      "url": "https://www.nytimes.com/2020/02/14/us/politics/george-and-kellyanne-conway.html",
+      "uri": "nyt://article/33006ed0-a87d-5c24-a6e0-bff69b614a72",
+      "byline": "By Elizabeth Williamson",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:43:08-05:00",
+      "created_date": "2020-02-14T13:53:17-05:00",
+      "published_date": "2020-02-14T13:53:17-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Impeachment",
+        "Presidential Election of 2020",
+        "Presidential Election of 2016"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Conway, George T III",
+        "Conway, Kellyanne",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/07/us/politics/00dc-conway1/merlin_166749219_ab0f8f43-40b4-4a8e-b6ac-6bd4b35accfe-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kellyanne Conway, senior adviser to President Trump and his 2016 campaign manager, has largely held her tongue about her husband’s opposition to her boss.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/07/us/politics/00dc-conway1/00dc-conway1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kellyanne Conway, senior adviser to President Trump and his 2016 campaign manager, has largely held her tongue about her husband’s opposition to her boss.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/07/us/politics/00dc-conway1/00dc-conway1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kellyanne Conway, senior adviser to President Trump and his 2016 campaign manager, has largely held her tongue about her husband’s opposition to her boss.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/07/us/politics/00dc-conway1/merlin_166749219_ab0f8f43-40b4-4a8e-b6ac-6bd4b35accfe-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kellyanne Conway, senior adviser to President Trump and his 2016 campaign manager, has largely held her tongue about her husband’s opposition to her boss.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/07/us/politics/00dc-conway1/merlin_166749219_ab0f8f43-40b4-4a8e-b6ac-6bd4b35accfe-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kellyanne Conway, senior adviser to President Trump and his 2016 campaign manager, has largely held her tongue about her husband’s opposition to her boss.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/39EBVXT"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "Activate This ‘Bracelet of Silence,’ and Alexa Can’t Eavesdrop",
+      "abstract": "Microphones and cameras lurk everywhere. You may want to slip on some privacy armor.",
+      "url": "https://www.nytimes.com/2020/02/14/technology/alexa-jamming-bracelet-privacy-armor.html",
+      "uri": "nyt://article/4ec8b68e-7737-572e-867e-ec056fdd3fb0",
+      "byline": "By Kashmir Hill",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:43:08-05:00",
+      "created_date": "2020-02-14T14:33:59-05:00",
+      "published_date": "2020-02-14T14:33:59-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Privacy",
+        "Computers and the Internet",
+        "Speakers (Audio)",
+        "Facial Recognition Software",
+        "Home Automation and Smart Homes",
+        "Wearable Computing"
+      ],
+      "org_facet": [
+        "Amazon.com Inc",
+        "Google Inc"
+      ],
+      "per_facet": [
+        "Harvey, Adam"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/business/14PRIVACYARMOR-01/merlin_168919842_48493103-4cef-4bc7-89e4-2136a08d542f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1363,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The bracelet will jam an Echo or any other microphone in the vicinity from listening in on the wearer&rsquo;s conversations.",
+          "copyright": "Petra Ford for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/business/14PRIVACYARMOR-01/14PRIVACYARMOR-01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The bracelet will jam an Echo or any other microphone in the vicinity from listening in on the wearer&rsquo;s conversations.",
+          "copyright": "Petra Ford for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/business/14PRIVACYARMOR-01/14PRIVACYARMOR-01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The bracelet will jam an Echo or any other microphone in the vicinity from listening in on the wearer&rsquo;s conversations.",
+          "copyright": "Petra Ford for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/business/14PRIVACYARMOR-01/14PRIVACYARMOR-01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The bracelet will jam an Echo or any other microphone in the vicinity from listening in on the wearer&rsquo;s conversations.",
+          "copyright": "Petra Ford for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/business/14PRIVACYARMOR-01/merlin_168919842_48493103-4cef-4bc7-89e4-2136a08d542f-articleInline.jpg",
+          "format": "Normal",
+          "height": 286,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The bracelet will jam an Echo or any other microphone in the vicinity from listening in on the wearer&rsquo;s conversations.",
+          "copyright": "Petra Ford for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/38tQOfs"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Coronavirus Begins to Sap Growth as Europe’s Economy Slows",
+      "abstract": "Germany registered zero growth in late 2019, and the prospects for a turnaround in early 2020 are dimming.",
+      "url": "https://www.nytimes.com/2020/02/14/business/germany-economy-coronavirus.html",
+      "uri": "nyt://article/411ed9d6-adcd-5038-8605-5bca3e4e0b82",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:42:31-05:00",
+      "created_date": "2020-02-14T06:21:08-05:00",
+      "published_date": "2020-02-14T06:21:08-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Economic Conditions and Trends",
+        "Automobiles",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Renault SA"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "China",
+        "France",
+        "Germany"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/world/14europecon/merlin_159565242_6fd34d6e-ce3a-49e5-94ae-4806a0f65e18-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexanderplatz in central Berlin. Economic growth in Germany stalled at the end of 2019.",
+          "copyright": "Lena Mucha for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/world/14europecon/14europecon-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexanderplatz in central Berlin. Economic growth in Germany stalled at the end of 2019.",
+          "copyright": "Lena Mucha for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/world/14europecon/14europecon-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexanderplatz in central Berlin. Economic growth in Germany stalled at the end of 2019.",
+          "copyright": "Lena Mucha for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/world/14europecon/merlin_159565242_6fd34d6e-ce3a-49e5-94ae-4806a0f65e18-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexanderplatz in central Berlin. Economic growth in Germany stalled at the end of 2019.",
+          "copyright": "Lena Mucha for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/world/14europecon/merlin_159565242_6fd34d6e-ce3a-49e5-94ae-4806a0f65e18-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexanderplatz in central Berlin. Economic growth in Germany stalled at the end of 2019.",
+          "copyright": "Lena Mucha for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/38tJ6BT"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Denver Mayor Says Pit Bull Ban Will Stand",
+      "abstract": "Mayor Michael B. Hancock said he would veto a measure passed by the City Council that would have repealed the city’s 30-year ban on pit bulls.",
+      "url": "https://www.nytimes.com/2020/02/14/us/denver-pit-bull-mayor-veto.html",
+      "uri": "nyt://article/13a21fc5-47fb-58e0-968f-41b97018c9b9",
+      "byline": "By Michael Levenson",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:42:31-05:00",
+      "created_date": "2020-02-14T21:16:20-05:00",
+      "published_date": "2020-02-14T21:16:20-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dogs",
+        "Animal Abuse, Rights and Welfare",
+        "Politics and Government",
+        "Law and Legislation",
+        "City Councils"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Hancock, Michael B"
+      ],
+      "geo_facet": [
+        "Denver (Colo)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/14xp-pitbull/14xp-pitbull-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael B. Hancock, the mayor of Denver, vetoed lifting a ban on pit bulls.",
+          "copyright": "Mark Rogers/Alamy "
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/14xp-pitbull/14xp-pitbull-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael B. Hancock, the mayor of Denver, vetoed lifting a ban on pit bulls.",
+          "copyright": "Mark Rogers/Alamy "
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/14xp-pitbull/14xp-pitbull-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael B. Hancock, the mayor of Denver, vetoed lifting a ban on pit bulls.",
+          "copyright": "Mark Rogers/Alamy "
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/14xp-pitbull/14xp-pitbull-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael B. Hancock, the mayor of Denver, vetoed lifting a ban on pit bulls.",
+          "copyright": "Mark Rogers/Alamy "
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/14xp-pitbull/14xp-pitbull-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael B. Hancock, the mayor of Denver, vetoed lifting a ban on pit bulls.",
+          "copyright": "Mark Rogers/Alamy "
+        }
+      ],
+      "short_url": "https://nyti.ms/2vvaLDX"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "U.S. Bars Sri Lankan Army Chief Accused of War Crimes",
+      "abstract": "The sanctions are the first international action against Sri Lanka stemming from its brutal civil war. Several members of the new government are also accused of wartime abuses.",
+      "url": "https://www.nytimes.com/2020/02/15/world/asia/sri-lanka-us-sanctions.html",
+      "uri": "nyt://article/0c125e67-13d6-5ddb-b4b9-14f06da3a46f",
+      "byline": "By Maria Abi-Habib and Dharisha Bastians",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:42:31-05:00",
+      "created_date": "2020-02-15T04:15:09-05:00",
+      "published_date": "2020-02-15T04:15:09-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "War Crimes, Genocide and Crimes Against Humanity",
+        "Human Rights and Human Rights Violations",
+        "United States Politics and Government",
+        "Tamils (Ethnic Group)"
+      ],
+      "org_facet": [
+        "Human Rights Watch",
+        "International Crisis Group",
+        "Liberation Tigers of Tamil Eelam",
+        "United Nations",
+        "European Union"
+      ],
+      "per_facet": [
+        "Rajapaksa, Gotabaya",
+        "Silva, Shavendra"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15srilanka/merlin_159743244_63c77620-3a09-4a19-986c-bdfab28b9108-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "During the final stages of Sri Lanka’s civil war, Lt. Gen. Shavendra Silva, center, commanded an army division the United Nations accuses of rights violations.",
+          "copyright": "Ishara S. Kodikara/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15srilanka/15srilanka-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "During the final stages of Sri Lanka’s civil war, Lt. Gen. Shavendra Silva, center, commanded an army division the United Nations accuses of rights violations.",
+          "copyright": "Ishara S. Kodikara/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15srilanka/15srilanka-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "During the final stages of Sri Lanka’s civil war, Lt. Gen. Shavendra Silva, center, commanded an army division the United Nations accuses of rights violations.",
+          "copyright": "Ishara S. Kodikara/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15srilanka/merlin_159743244_63c77620-3a09-4a19-986c-bdfab28b9108-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "During the final stages of Sri Lanka’s civil war, Lt. Gen. Shavendra Silva, center, commanded an army division the United Nations accuses of rights violations.",
+          "copyright": "Ishara S. Kodikara/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/15/world/15srilanka/merlin_159743244_63c77620-3a09-4a19-986c-bdfab28b9108-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "During the final stages of Sri Lanka’s civil war, Lt. Gen. Shavendra Silva, center, commanded an army division the United Nations accuses of rights violations.",
+          "copyright": "Ishara S. Kodikara/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/39vrcie"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Developers of Upper West Side Condo Tower May Have to Deconstruct 20 Floors",
+      "abstract": "A judge has ordered that the city revoke the building permit for 200 Amsterdam Avenue.",
+      "url": "https://www.nytimes.com/2020/02/14/nyregion/upper-west-side-condo-zoning.html",
+      "uri": "nyt://article/dd267326-9024-52ea-97e6-559244a17a4f",
+      "byline": "By Stefanos Chen",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:42:31-05:00",
+      "created_date": "2020-02-14T23:19:35-05:00",
+      "published_date": "2020-02-14T23:19:35-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Condominiums",
+        "Buildings (Structures)"
+      ],
+      "org_facet": [
+        "Board of Standards and Appeals",
+        "Buildings Department (NYC)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Upper West Side (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/14amsterdam/merlin_168061107_dd0a89b2-0f14-4a09-bed5-f117826039ba-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A judge has ordered the developers of 200 Amsterdam Avenue on the Upper West Side of Manhattan to remove all floors that exceed the legal zoning.",
+          "copyright": "Stefano Ukmar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/14amsterdam/merlin_168061107_dd0a89b2-0f14-4a09-bed5-f117826039ba-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A judge has ordered the developers of 200 Amsterdam Avenue on the Upper West Side of Manhattan to remove all floors that exceed the legal zoning.",
+          "copyright": "Stefano Ukmar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/14amsterdam/merlin_168061107_dd0a89b2-0f14-4a09-bed5-f117826039ba-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A judge has ordered the developers of 200 Amsterdam Avenue on the Upper West Side of Manhattan to remove all floors that exceed the legal zoning.",
+          "copyright": "Stefano Ukmar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/14amsterdam/merlin_168061107_dd0a89b2-0f14-4a09-bed5-f117826039ba-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A judge has ordered the developers of 200 Amsterdam Avenue on the Upper West Side of Manhattan to remove all floors that exceed the legal zoning.",
+          "copyright": "Stefano Ukmar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/14amsterdam/merlin_168061107_dd0a89b2-0f14-4a09-bed5-f117826039ba-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A judge has ordered the developers of 200 Amsterdam Avenue on the Upper West Side of Manhattan to remove all floors that exceed the legal zoning.",
+          "copyright": "Stefano Ukmar for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SMLih7"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "Recline in Your Airplane Seat? A Debate Rages in the Skies and Online",
+      "abstract": "You’re either a recliner or you’re not. There appears to be no middle seat here.",
+      "url": "https://www.nytimes.com/2020/02/15/travel/airplane-seat-recline-video.html",
+      "uri": "nyt://article/57086066-f3ef-5b19-8ac8-f3cdb1bb5eb1",
+      "byline": "By Aimee Ortiz",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:42:31-05:00",
+      "created_date": "2020-02-15T05:00:10-05:00",
+      "published_date": "2020-02-15T05:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Airlines and Airplanes",
+        "Travel and Vacations",
+        "Video Recordings, Downloads and Streaming"
+      ],
+      "org_facet": [
+        "Federal Aviation Administration",
+        "American Airlines"
+      ],
+      "per_facet": [
+        "Wendi Williams"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/us/00xp-recline/00xp-recline-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A video of a man repeatedly pushing against the back of an airplane seat ignited a debate about whether passengers should recline during a flight.",
+          "copyright": "Steve Parsons/PA Wire"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/us/00xp-recline/00xp-recline-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A video of a man repeatedly pushing against the back of an airplane seat ignited a debate about whether passengers should recline during a flight.",
+          "copyright": "Steve Parsons/PA Wire"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/us/00xp-recline/00xp-recline-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A video of a man repeatedly pushing against the back of an airplane seat ignited a debate about whether passengers should recline during a flight.",
+          "copyright": "Steve Parsons/PA Wire"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/us/00xp-recline/00xp-recline-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A video of a man repeatedly pushing against the back of an airplane seat ignited a debate about whether passengers should recline during a flight.",
+          "copyright": "Steve Parsons/PA Wire"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/us/00xp-recline/00xp-recline-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A video of a man repeatedly pushing against the back of an airplane seat ignited a debate about whether passengers should recline during a flight.",
+          "copyright": "Steve Parsons/PA Wire"
+        }
+      ],
+      "short_url": "https://nyti.ms/3bFt8GP"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "An Old and Contested Solution to Boost Reading Scores: Phonics",
+      "abstract": "As test scores lag, there’s a growing debate between proponents of the “science of reading,” which emphasizes phonics, and traditional educators who prefer to instill a love of literature.",
+      "url": "https://www.nytimes.com/2020/02/15/us/reading-phonics.html",
+      "uri": "nyt://article/601eb9bc-742c-5810-b715-ba5d3d6de035",
+      "byline": "By Dana Goldstein",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:42:35-05:00",
+      "created_date": "2020-02-15T03:00:10-05:00",
+      "published_date": "2020-02-15T03:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Reading and Writing Skills (Education)",
+        "Education (K-12)",
+        "Teachers and School Employees"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Washington (DC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/05/us/00reading-01alt/00reading-01alt-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ari Cotton, a first grader, reading a book at Garrison Elementary School in Washington, D.C., one of only two jurisdictions in the country that saw rising scores on national reading tests for both fourth and eighth graders last year.",
+          "copyright": "Lexey Swall for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/05/us/00reading-01alt/00reading-01alt-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ari Cotton, a first grader, reading a book at Garrison Elementary School in Washington, D.C., one of only two jurisdictions in the country that saw rising scores on national reading tests for both fourth and eighth graders last year.",
+          "copyright": "Lexey Swall for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/05/us/00reading-01alt/00reading-01alt-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ari Cotton, a first grader, reading a book at Garrison Elementary School in Washington, D.C., one of only two jurisdictions in the country that saw rising scores on national reading tests for both fourth and eighth graders last year.",
+          "copyright": "Lexey Swall for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/05/us/00reading-01alt/00reading-01alt-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ari Cotton, a first grader, reading a book at Garrison Elementary School in Washington, D.C., one of only two jurisdictions in the country that saw rising scores on national reading tests for both fourth and eighth graders last year.",
+          "copyright": "Lexey Swall for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/05/us/00reading-01alt/00reading-01alt-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ari Cotton, a first grader, reading a book at Garrison Elementary School in Washington, D.C., one of only two jurisdictions in the country that saw rising scores on national reading tests for both fourth and eighth graders last year.",
+          "copyright": "Lexey Swall for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/39CHxBW"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "Damming the Lower Mekong, Devastating the Ways and Means of Life",
+      "abstract": "Thailand funded the first dam on the river in Laos, and it is Thai towns, farms and fisheries that are suffering.",
+      "url": "https://www.nytimes.com/2020/02/15/world/asia/mekong-river-dams-thailand.html",
+      "uri": "nyt://article/f1e95d36-6a19-5f0e-8b2e-21be7bf9a904",
+      "byline": "By Hannah Beech and Adam Dean",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:42:39-05:00",
+      "created_date": "2020-02-15T04:00:14-05:00",
+      "published_date": "2020-02-15T04:00:14-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Levees and Dams",
+        "Global Warming",
+        "Rivers",
+        "Fish and Other Marine Life",
+        "Hydroelectric Power",
+        "Agriculture and Farming",
+        "Drought"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Thailand",
+        "Mekong River",
+        "Laos"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/11/world/00mekong-promo/merlin_167945418_18fc754f-f4da-4b21-bd77-c8d46270345d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A boat drives through a shallow section of the Mekong River where sections of the river are green and blue rather than their usual murky brown at this time of year, near Sangkhom, Thailand, in January.",
+          "copyright": "Adam Dean for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/11/world/00mekong-promo/00mekong-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A boat drives through a shallow section of the Mekong River where sections of the river are green and blue rather than their usual murky brown at this time of year, near Sangkhom, Thailand, in January.",
+          "copyright": "Adam Dean for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/11/world/00mekong-promo/00mekong-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A boat drives through a shallow section of the Mekong River where sections of the river are green and blue rather than their usual murky brown at this time of year, near Sangkhom, Thailand, in January.",
+          "copyright": "Adam Dean for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/11/world/00mekong-promo/00mekong-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A boat drives through a shallow section of the Mekong River where sections of the river are green and blue rather than their usual murky brown at this time of year, near Sangkhom, Thailand, in January.",
+          "copyright": "Adam Dean for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/11/world/00mekong-promo/merlin_167945418_18fc754f-f4da-4b21-bd77-c8d46270345d-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A boat drives through a shallow section of the Mekong River where sections of the river are green and blue rather than their usual murky brown at this time of year, near Sangkhom, Thailand, in January.",
+          "copyright": "Adam Dean for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2OXKyVr"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Taming the ‘Wild West’ of New York’s Dangerous Private Trash Trucks",
+      "abstract": "A sweeping overhaul aims to make commercial garbage pickup safer for pedestrians, workers and the environment.",
+      "url": "https://www.nytimes.com/2020/02/15/nyregion/nyc-garbage.html",
+      "uri": "nyt://article/991e2b30-952e-533c-8751-3947e7a67556",
+      "byline": "By Anne Barnard",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:42:39-05:00",
+      "created_date": "2020-02-15T03:00:11-05:00",
+      "published_date": "2020-02-15T03:00:11-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Waste Materials and Disposal",
+        "Traffic Accidents and Safety",
+        "Greenhouse Gas Emissions",
+        "Labor and Jobs",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [
+        "International Brotherhood of Teamsters",
+        "Sanitation Department (NYC)",
+        "ProPublica"
+      ],
+      "per_facet": [
+        "de Blasio, Bill"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/11/11/nyregion/00garbage/00garbage-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lamont Mays working in Manhattan’s Chinatown for Action Carting. “It’s going to help,” he said about a new city law.",
+          "copyright": "OK McCausland for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/11/11/nyregion/00garbage/00garbage-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lamont Mays working in Manhattan’s Chinatown for Action Carting. “It’s going to help,” he said about a new city law.",
+          "copyright": "OK McCausland for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/11/11/nyregion/00garbage/00garbage-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lamont Mays working in Manhattan’s Chinatown for Action Carting. “It’s going to help,” he said about a new city law.",
+          "copyright": "OK McCausland for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/11/11/nyregion/00garbage/00garbage-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lamont Mays working in Manhattan’s Chinatown for Action Carting. “It’s going to help,” he said about a new city law.",
+          "copyright": "OK McCausland for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/11/11/nyregion/00garbage/00garbage-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lamont Mays working in Manhattan’s Chinatown for Action Carting. “It’s going to help,” he said about a new city law.",
+          "copyright": "OK McCausland for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2UTLPkk"
+    },
+    {
+      "section": "sports",
+      "subsection": "soccer",
+      "title": "Manchester City Vows to Fight, Because Losing Is Unthinkable",
+      "abstract": "Suspended from the Champions League for two seasons, a team declares it will clear its name. But City, and European soccer’s governing body, both know the stakes are much bigger than that.",
+      "url": "https://www.nytimes.com/2020/02/15/sports/soccer/manchester-city-champions-league.html",
+      "uri": "nyt://article/c977488e-a40a-5a3e-9112-e510ce96a445",
+      "byline": "By Rory Smith",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:42:37-05:00",
+      "created_date": "2020-02-15T02:00:07-05:00",
+      "published_date": "2020-02-15T02:00:07-05:00",
+      "material_type_facet": "",
+      "kicker": "on soccer",
+      "des_facet": [
+        "Soccer",
+        "UEFA Champions League (Soccer)"
+      ],
+      "org_facet": [
+        "Manchester City (Soccer Team)",
+        "Football Leaks",
+        "English Premier League"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/sports/14mancitytrophy/merlin_164675037_1cd0fc4d-189b-4d4f-bc27-cc6e49f6b3c2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1403,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Manchester City has won four Premier League titles in the last decade, in 2012, 2014, 2018 and 2019.",
+          "copyright": "John Sibley/Action Images, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/sports/14mancitytrophy/merlin_164675037_1cd0fc4d-189b-4d4f-bc27-cc6e49f6b3c2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Manchester City has won four Premier League titles in the last decade, in 2012, 2014, 2018 and 2019.",
+          "copyright": "John Sibley/Action Images, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/sports/14mancitytrophy/merlin_164675037_1cd0fc4d-189b-4d4f-bc27-cc6e49f6b3c2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Manchester City has won four Premier League titles in the last decade, in 2012, 2014, 2018 and 2019.",
+          "copyright": "John Sibley/Action Images, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/sports/14mancitytrophy/merlin_164675037_1cd0fc4d-189b-4d4f-bc27-cc6e49f6b3c2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Manchester City has won four Premier League titles in the last decade, in 2012, 2014, 2018 and 2019.",
+          "copyright": "John Sibley/Action Images, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/sports/14mancitytrophy/merlin_164675037_1cd0fc4d-189b-4d4f-bc27-cc6e49f6b3c2-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Manchester City has won four Premier League titles in the last decade, in 2012, 2014, 2018 and 2019.",
+          "copyright": "John Sibley/Action Images, via Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Sx20T3"
+    },
+    {
+      "section": "smarter-living",
+      "subsection": "",
+      "title": "Dear Mom and Dad: Are Your Finances Ready for Retirement?",
+      "abstract": "The need to discuss your parents’ futures with them, especially before a potential crisis or inciting event, is true for everyone.",
+      "url": "https://www.nytimes.com/2020/02/13/smarter-living/parents-retirement-planning.html",
+      "uri": "nyt://article/26e6f19e-ce42-5adb-bee3-d8c38ca98a42",
+      "byline": "By Erin Lowry",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T10:14:36-05:00",
+      "created_date": "2020-02-13T23:43:42-05:00",
+      "published_date": "2020-02-13T23:43:42-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Parenting",
+        "Wills and Estates",
+        "Personal Finances",
+        "Elderly",
+        "Pensions and Retirement Plans",
+        "Financial Planners"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/smarter-living/13sl-perfi-parents/13sl-perfi-parents-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/smarter-living/13sl-perfi-parents/13sl-perfi-parents-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/smarter-living/13sl-perfi-parents/13sl-perfi-parents-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/smarter-living/13sl-perfi-parents/13sl-perfi-parents-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/smarter-living/13sl-perfi-parents/13sl-perfi-parents-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        }
+      ],
+      "short_url": "https://nyti.ms/2w96Pce"
+    },
+    {
+      "section": "smarter-living",
+      "subsection": "",
+      "title": "3 Ways to Retrain Your Mind to Get Out of Credit Card Debt",
+      "abstract": "Digging yourself out is as much about changing your thinking as it is about redirecting your money.",
+      "url": "https://www.nytimes.com/2020/02/12/smarter-living/how-to-get-out-of-credit-card-debt.html",
+      "uri": "nyt://article/87ebf92e-15d7-57a9-81a1-7dbe097e988c",
+      "byline": "By Taylor Tepper",
+      "item_type": "Article",
+      "updated_date": "2020-02-13T23:49:17-05:00",
+      "created_date": "2020-02-12T22:36:48-05:00",
+      "published_date": "2020-02-12T22:36:48-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/smarter-living/13sl-perfinance-credit-debt/13sl-perfinance-credit-debt-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/smarter-living/13sl-perfinance-credit-debt/13sl-perfinance-credit-debt-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/smarter-living/13sl-perfinance-credit-debt/13sl-perfinance-credit-debt-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/smarter-living/13sl-perfinance-credit-debt/13sl-perfinance-credit-debt-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/13/smarter-living/13sl-perfinance-credit-debt/13sl-perfinance-credit-debt-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SnECr5"
+    },
+    {
+      "section": "smarter-living",
+      "subsection": "",
+      "title": "The Best Way to Use a Credit Card? Treat It Like Cash.",
+      "abstract": "Credit cards can build your credit and earn you rewards, but they can also put you in debt. These tricks can keep you accountable for your spending.",
+      "url": "https://www.nytimes.com/2020/02/11/smarter-living/how-to-use-credit-cards.html",
+      "uri": "nyt://article/42ab8a63-c9b4-5544-a4bd-781f6a12f701",
+      "byline": "By Sally French",
+      "item_type": "Article",
+      "updated_date": "2020-02-13T23:50:32-05:00",
+      "created_date": "2020-02-11T23:51:11-05:00",
+      "published_date": "2020-02-11T23:51:11-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Credit Cards",
+        "Personal Finances",
+        "Budgets and Budgeting",
+        "Economic Conditions and Trends"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/smarter-living/12sl-perffinance-credit-cash/12sl-perffinance-credit-cash-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/smarter-living/12sl-perffinance-credit-cash/12sl-perffinance-credit-cash-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/smarter-living/12sl-perffinance-credit-cash/12sl-perffinance-credit-cash-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/smarter-living/12sl-perffinance-credit-cash/12sl-perffinance-credit-cash-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/smarter-living/12sl-perffinance-credit-cash/12sl-perffinance-credit-cash-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        }
+      ],
+      "short_url": "https://nyti.ms/2vrfM06"
+    },
+    {
+      "section": "smarter-living",
+      "subsection": "",
+      "title": "The Young Person’s Guide to Investing",
+      "abstract": "Narrowing down all the options and figuring out where to turn can be paralyzing. We’ve got you covered.",
+      "url": "https://www.nytimes.com/2020/02/10/smarter-living/the-young-persons-guide-to-investing.html",
+      "uri": "nyt://article/6623d515-ad69-5477-9da8-6e4ed4e36a3e",
+      "byline": "By Tara Siegel Bernard",
+      "item_type": "Article",
+      "updated_date": "2020-02-13T23:50:09-05:00",
+      "created_date": "2020-02-10T22:00:08-05:00",
+      "published_date": "2020-02-10T22:00:08-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Stocks and Bonds",
+        "Savings",
+        "Asset Allocation (Personal Finances)",
+        "Mutual Funds",
+        "Banking and Financial Institutions",
+        "Individual Retirement Accounts",
+        "Financial Planners",
+        "Student Loans",
+        "Personal Finances"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/11/smarter-living/11sl-finance-young-investing/11sl-finance-young-investing-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/11/smarter-living/11sl-finance-young-investing/11sl-finance-young-investing-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/11/smarter-living/11sl-finance-young-investing/11sl-finance-young-investing-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/11/smarter-living/11sl-finance-young-investing/11sl-finance-young-investing-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/11/smarter-living/11sl-finance-young-investing/11sl-finance-young-investing-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        }
+      ],
+      "short_url": "https://nyti.ms/38hq01J"
+    },
+    {
+      "section": "smarter-living",
+      "subsection": "",
+      "title": "3 Simple Things You Can Do Today to Improve Your Finances",
+      "abstract": "It’s easier than you think.",
+      "url": "https://www.nytimes.com/2020/02/09/smarter-living/tips-to-save-more-money.html",
+      "uri": "nyt://article/fa8476dc-a7a4-5775-a8d0-4b3459ff6e0c",
+      "byline": "By Tim Herrera",
+      "item_type": "Article",
+      "updated_date": "2020-02-13T23:49:39-05:00",
+      "created_date": "2020-02-09T18:45:27-05:00",
+      "published_date": "2020-02-09T18:45:27-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Personal Finances",
+        "Savings",
+        "Budgets and Budgeting",
+        "Pensions and Retirement Plans",
+        "Banking and Financial Institutions"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/06/smarter-living/00sl-finance-newsletter/00sl-finance-newsletter-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/06/smarter-living/00sl-finance-newsletter/00sl-finance-newsletter-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/06/smarter-living/00sl-finance-newsletter/00sl-finance-newsletter-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/06/smarter-living/00sl-finance-newsletter/00sl-finance-newsletter-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/06/smarter-living/00sl-finance-newsletter/00sl-finance-newsletter-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih"
+        }
+      ],
+      "short_url": "https://nyti.ms/37eAGwR"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "A Ballerina’s Nightmare: ‘Am I More Than Just a Dancer?’",
+      "abstract": "Tiler Peck, the New York City Ballet star, suffered a debilitating neck injury. We follow her arduous path back to the stage in advance of “Swan Lake.”",
+      "url": "https://www.nytimes.com/2020/02/13/arts/dance/tiler-peck.html",
+      "uri": "nyt://article/971f2acb-2493-55ce-a52c-5d745c78361b",
+      "byline": "By Gia Kourlas",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:43:50-05:00",
+      "created_date": "2020-02-13T10:00:10-05:00",
+      "published_date": "2020-02-13T10:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dancing",
+        "Swan Lake (Ballet)",
+        "Sports Injuries"
+      ],
+      "org_facet": [
+        "New York City Ballet"
+      ],
+      "per_facet": [
+        "Peck, Tiler"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/arts/16TILER-PECK-1-copy/16TILER-PECK-1-copy-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1402,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tiler Peck at the David H. Koch Theater, where she will perform “Swan Lake” in February.",
+          "copyright": "Celeste Sloman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/arts/16TILER-PECK-1-copy/16TILER-PECK-1-copy-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tiler Peck at the David H. Koch Theater, where she will perform “Swan Lake” in February.",
+          "copyright": "Celeste Sloman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/arts/16TILER-PECK-1-copy/16TILER-PECK-1-copy-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tiler Peck at the David H. Koch Theater, where she will perform “Swan Lake” in February.",
+          "copyright": "Celeste Sloman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/arts/16TILER-PECK-1-copy/16TILER-PECK-1-copy-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tiler Peck at the David H. Koch Theater, where she will perform “Swan Lake” in February.",
+          "copyright": "Celeste Sloman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/arts/16TILER-PECK-1-copy/16TILER-PECK-1-copy-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tiler Peck at the David H. Koch Theater, where she will perform “Swan Lake” in February.",
+          "copyright": "Celeste Sloman for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/39thWLF"
+    },
+    {
+      "section": "magazine",
+      "subsection": "",
+      "title": "How Cooking Dinner Can Change Your Life",
+      "abstract": "The Times’s Food Editor discovered the extraordinary power of the ordinary meal. You can, too.",
+      "url": "https://www.nytimes.com/2020/02/12/magazine/family-dinner-beef-stroganoff.html",
+      "uri": "nyt://article/f164eaf6-3e09-507c-8be2-7d0af5ab5e79",
+      "byline": "By Sam Sifton",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:43:47-05:00",
+      "created_date": "2020-02-12T05:00:07-05:00",
+      "published_date": "2020-02-12T05:00:07-05:00",
+      "material_type_facet": "",
+      "kicker": "Eat",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Psychology and Psychologists",
+        "Recipes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Greenpoint (Brooklyn, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/magazine/16mag-eat/16mag-eat-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1433,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beef Stroganoff.",
+          "copyright": "Sarah Anne Ward for The New York Times. Food stylist: Frances Boswell. Prop stylist: Amy Elise Wilson."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/magazine/16mag-eat/16mag-eat-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beef Stroganoff.",
+          "copyright": "Sarah Anne Ward for The New York Times. Food stylist: Frances Boswell. Prop stylist: Amy Elise Wilson."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/magazine/16mag-eat/16mag-eat-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beef Stroganoff.",
+          "copyright": "Sarah Anne Ward for The New York Times. Food stylist: Frances Boswell. Prop stylist: Amy Elise Wilson."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/magazine/16mag-eat/16mag-eat-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beef Stroganoff.",
+          "copyright": "Sarah Anne Ward for The New York Times. Food stylist: Frances Boswell. Prop stylist: Amy Elise Wilson."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/magazine/16mag-eat/16mag-eat-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 133,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beef Stroganoff.",
+          "copyright": "Sarah Anne Ward for The New York Times. Food stylist: Frances Boswell. Prop stylist: Amy Elise Wilson."
+        }
+      ],
+      "short_url": "https://nyti.ms/3by6T5N"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "A Beloved Neighbor Leaves the Building",
+      "abstract": "An Illinois farm boy who came to New York to be a singer left an indelible mark on the Upper West Side co-op where he lived for more than six decades.",
+      "url": "https://www.nytimes.com/2020/02/13/nyregion/charles-dunn-died-upper-west-side.html",
+      "uri": "nyt://article/aab74f12-8191-5102-b726-c29317d32a98",
+      "byline": "By Peter Khoury",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:43:49-05:00",
+      "created_date": "2020-02-13T16:41:48-05:00",
+      "published_date": "2020-02-13T16:41:48-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooperatives"
+      ],
+      "org_facet": [
+        "Schrafft's"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Broadway (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/multimedia/00xp-charlesdunnSUB/00xp-charlesdunnSUB-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1280,
+          "width": 854,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Charles Dunn, a farm boy from Illinois who came to New York after World War II and pursued a career in singing, died on Feb. 1 at 99.",
+          "copyright": "via the Dunn family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/multimedia/00xp-charlesdunnSUB/00xp-charlesdunnSUB-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Charles Dunn, a farm boy from Illinois who came to New York after World War II and pursued a career in singing, died on Feb. 1 at 99.",
+          "copyright": "via the Dunn family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/multimedia/00xp-charlesdunnSUB/00xp-charlesdunnSUB-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Charles Dunn, a farm boy from Illinois who came to New York after World War II and pursued a career in singing, died on Feb. 1 at 99.",
+          "copyright": "via the Dunn family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/multimedia/00xp-charlesdunnSUB/00xp-charlesdunnSUB-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Charles Dunn, a farm boy from Illinois who came to New York after World War II and pursued a career in singing, died on Feb. 1 at 99.",
+          "copyright": "via the Dunn family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/12/multimedia/00xp-charlesdunnSUB/00xp-charlesdunnSUB-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Charles Dunn, a farm boy from Illinois who came to New York after World War II and pursued a career in singing, died on Feb. 1 at 99.",
+          "copyright": "via the Dunn family"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SGIZfM"
+    },
+    {
+      "section": "magazine",
+      "subsection": "",
+      "title": "‘The L Word’ Was a Trailblazer. Can a Reboot Keep Up With the Culture?",
+      "abstract": "For some queer women, the original was a first glimpse of lesbianism onscreen. But the new version has a debt to repay, and it knows it.",
+      "url": "https://www.nytimes.com/2020/02/12/magazine/the-l-word-was-a-trailblazer-can-a-reboot-keep-up-with-the-culture.html",
+      "uri": "nyt://article/e6c20489-7649-55bd-b2db-756e0107c054",
+      "byline": "By Jenna Wortham",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:43:49-05:00",
+      "created_date": "2020-02-12T05:00:10-05:00",
+      "published_date": "2020-02-12T05:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Homosexuality and Bisexuality",
+        "The L Word: Generation Q (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/magazine/16magScreenland/16magScreenland-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by Najeebah Al-Ghadban"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/magazine/16magScreenland/16magScreenland-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by Najeebah Al-Ghadban"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/magazine/16magScreenland/16magScreenland-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by Najeebah Al-Ghadban"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/magazine/16magScreenland/16magScreenland-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by Najeebah Al-Ghadban"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/magazine/16magScreenland/16magScreenland-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by Najeebah Al-Ghadban"
+        }
+      ],
+      "short_url": "https://nyti.ms/39whs7E"
+    },
+    {
+      "section": "sports",
+      "subsection": "basketball",
+      "title": "He Is Building a Home. And a Career in the N.B.A.",
+      "abstract": "Pat Connaughton, a reserve guard for the Milwaukee Bucks, is forging his own path in basketball while continuing a family tradition of working in real estate.",
+      "url": "https://www.nytimes.com/2020/02/13/sports/basketball/pat-connaughton-bucks-real-estate.html",
+      "uri": "nyt://article/6ec45a19-5648-5112-b366-95d76ad5e630",
+      "byline": "By Scott Cacciola",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:43:50-05:00",
+      "created_date": "2020-02-13T14:30:06-05:00",
+      "published_date": "2020-02-13T14:30:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Basketball",
+        "Real Estate and Housing (Residential)"
+      ],
+      "org_facet": [
+        "Milwaukee Bucks"
+      ],
+      "per_facet": [
+        "Connaughton, Pat (1993- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/sports/14nba-patbucks-3/merlin_167254542_8da2130a-928b-4f1e-832a-d7c34f0640b8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pat Connaughton, a reserve guard for the Milwaukee Bucks, moonlights as a real estate developer.",
+          "copyright": "Lyndon French for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/sports/14nba-patbucks-3/14nba-patbucks-3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pat Connaughton, a reserve guard for the Milwaukee Bucks, moonlights as a real estate developer.",
+          "copyright": "Lyndon French for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/sports/14nba-patbucks-3/14nba-patbucks-3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pat Connaughton, a reserve guard for the Milwaukee Bucks, moonlights as a real estate developer.",
+          "copyright": "Lyndon French for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/sports/14nba-patbucks-3/14nba-patbucks-3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pat Connaughton, a reserve guard for the Milwaukee Bucks, moonlights as a real estate developer.",
+          "copyright": "Lyndon French for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/sports/14nba-patbucks-3/merlin_167254542_8da2130a-928b-4f1e-832a-d7c34f0640b8-articleInline.jpg",
+          "format": "Normal",
+          "height": 152,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pat Connaughton, a reserve guard for the Milwaukee Bucks, moonlights as a real estate developer.",
+          "copyright": "Lyndon French for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3bDeVtS"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "From Dubai to Mars, With Stops in Colorado and Japan",
+      "abstract": "The United Arab Emirates used a novel approach to build the Hope spacecraft, which launches for the red planet this summer.",
+      "url": "https://www.nytimes.com/2020/02/15/science/mars-united-arab-emirates.html",
+      "uri": "nyt://article/ce3e90f7-c80e-5b90-ad58-75b0d7c8ed40",
+      "byline": "By Kenneth Chang",
+      "item_type": "Article",
+      "updated_date": "2020-02-15T05:00:19-05:00",
+      "created_date": "2020-02-15T05:00:19-05:00",
+      "published_date": "2020-02-15T05:00:19-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Mars (Planet)",
+        "Rocket Science and Propulsion",
+        "Space and Astronomy",
+        "Science and Technology",
+        "Engineering and Engineers",
+        "Research"
+      ],
+      "org_facet": [
+        "University of Colorado"
+      ],
+      "per_facet": [
+        "Maktoum, Mohammed Bin Rashid Al-",
+        "Sarah al-Amiri"
+      ],
+      "geo_facet": [
+        "United Arab Emirates",
+        "Dubai (United Arab Emirates)",
+        "Boulder (Colo)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/science/16sci-hope1/merlin_168738882_153d71d7-9469-430c-a2f8-28a153fc3590-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Hope robotic probe in Colorado. The ruler of Dubai wanted to offer inspiration for youth in the wider Arab world. &ldquo;That&rsquo;s why he called the spacecraft Hope,&rdquo; said Omran Sharaf, the mission&rsquo;s project manager.",
+          "copyright": "Mohammed Bin Rashid Space Center"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/science/16sci-hope1/00SCI-HOPE01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Hope robotic probe in Colorado. The ruler of Dubai wanted to offer inspiration for youth in the wider Arab world. &ldquo;That&rsquo;s why he called the spacecraft Hope,&rdquo; said Omran Sharaf, the mission&rsquo;s project manager.",
+          "copyright": "Mohammed Bin Rashid Space Center"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/science/16sci-hope1/00SCI-HOPE01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Hope robotic probe in Colorado. The ruler of Dubai wanted to offer inspiration for youth in the wider Arab world. &ldquo;That&rsquo;s why he called the spacecraft Hope,&rdquo; said Omran Sharaf, the mission&rsquo;s project manager.",
+          "copyright": "Mohammed Bin Rashid Space Center"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/science/16sci-hope1/00SCI-HOPE01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Hope robotic probe in Colorado. The ruler of Dubai wanted to offer inspiration for youth in the wider Arab world. &ldquo;That&rsquo;s why he called the spacecraft Hope,&rdquo; said Omran Sharaf, the mission&rsquo;s project manager.",
+          "copyright": "Mohammed Bin Rashid Space Center"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/science/16sci-hope1/merlin_168738882_153d71d7-9469-430c-a2f8-28a153fc3590-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Hope robotic probe in Colorado. The ruler of Dubai wanted to offer inspiration for youth in the wider Arab world. &ldquo;That&rsquo;s why he called the spacecraft Hope,&rdquo; said Omran Sharaf, the mission&rsquo;s project manager.",
+          "copyright": "Mohammed Bin Rashid Space Center"
+        }
+      ],
+      "short_url": "https://nyti.ms/2UUQgeG"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "They Wanted Research Funding, So They Entered the Lottery",
+      "abstract": "A survey of New Zealand scientists found that recipients of a randomized funding program favored random allocations of some kinds of grant money.",
+      "url": "https://www.nytimes.com/2020/02/14/science/research-funding-lotteries.html",
+      "uri": "nyt://article/2e68e62c-314b-5eb1-a5fe-2472a61b9d39",
+      "byline": "By Dalmeet Singh Chawla",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T11:14:09-05:00",
+      "created_date": "2020-02-14T11:14:09-05:00",
+      "published_date": "2020-02-14T11:14:09-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Research",
+        "Lotteries",
+        "Science and Technology",
+        "Medicine and Health",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Health and Research Council",
+        "Research Integrity and Peer Review"
+      ],
+      "per_facet": [
+        "Barnett, Adrian"
+      ],
+      "geo_facet": [
+        "New Zealand"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/science/14SCI-lotteries/merlin_168893205_37df6f28-5afa-4e51-810e-b18b40b91fa0-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anna Ponnampalam secured funding for her work through a lottery scheme from New Zealand’s Health Research Council.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/science/14SCI-lotteries/14SCI-lotteries-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anna Ponnampalam secured funding for her work through a lottery scheme from New Zealand’s Health Research Council.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/science/14SCI-lotteries/14SCI-lotteries-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anna Ponnampalam secured funding for her work through a lottery scheme from New Zealand’s Health Research Council.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/science/14SCI-lotteries/14SCI-lotteries-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anna Ponnampalam secured funding for her work through a lottery scheme from New Zealand’s Health Research Council.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/science/14SCI-lotteries/merlin_168893205_37df6f28-5afa-4e51-810e-b18b40b91fa0-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anna Ponnampalam secured funding for her work through a lottery scheme from New Zealand’s Health Research Council.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2P9KuSP"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "The Further Adventures of Betelgeuse, the Fainting Star",
+      "abstract": "The red supergiant is no closer to exploding, it seems. It also no longer appears round.",
+      "url": "https://www.nytimes.com/2020/02/14/science/betelgeuse-pictures-supernova.html",
+      "uri": "nyt://article/23298bcc-f005-584f-8986-2d9377b3653a",
+      "byline": "By Dennis Overbye",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T17:13:01-05:00",
+      "created_date": "2020-02-14T15:30:34-05:00",
+      "published_date": "2020-02-14T15:30:34-05:00",
+      "material_type_facet": "",
+      "kicker": "Out There",
+      "des_facet": [
+        "Stars and Galaxies",
+        "Space and Astronomy",
+        "Sun",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "European Southern Observatory"
+      ],
+      "per_facet": [
+        "Montarges, Miguel"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/science/14betelgeuse-video-image/14betelgeuse-video-image-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 640,
+          "width": 1280,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "ESO/M. Montargès et al."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/science/14betelgeuse-video-image/14betelgeuse-video-image-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "ESO/M. Montargès et al."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/science/14betelgeuse-video-image/14betelgeuse-video-image-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "ESO/M. Montargès et al."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/science/14betelgeuse-video-image/14betelgeuse-video-image-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "ESO/M. Montargès et al."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/science/14betelgeuse-video-image/14betelgeuse-video-image-articleInline.jpg",
+          "format": "Normal",
+          "height": 95,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "ESO/M. Montargès et al."
+        }
+      ],
+      "short_url": "https://nyti.ms/2StrbG7"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "An Alzheimer’s Treatment Fails: ‘We Don’t Have Anything Now’",
+      "abstract": "With high hopes, drugs to fight brain plaques were tested in people genetically destined to develop dementia. The drugs failed.",
+      "url": "https://www.nytimes.com/2020/02/10/health/alzheimers-amyloid-drug.html",
+      "uri": "nyt://article/d2aef329-a9b8-5d53-ac27-210721ce2c0e",
+      "byline": "By Gina Kolata",
+      "item_type": "Article",
+      "updated_date": "2020-02-11T15:06:27-05:00",
+      "created_date": "2020-02-10T15:31:05-05:00",
+      "published_date": "2020-02-10T15:31:05-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Alzheimer's Disease",
+        "Elderly",
+        "Drugs (Pharmaceuticals)",
+        "Brain",
+        "Clinical Trials"
+      ],
+      "org_facet": [
+        "Dominantly Inherited Alzheimer Network (DIAN)",
+        "Eli Lilly and Company",
+        "National Institute on Aging",
+        "Roche Holding AG",
+        "Washington University"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/10/science/00early-alzheimers02/merlin_168718821_8b9439c7-c3be-4f1d-a723-b5acc349babd-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Two experimental drugs failed to prevent or slow mental decline in a study of people genetically predisposed to develop Alzheimer's disease at a young age.",
+          "copyright": "Matt York/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/10/science/00early-alzheimers02/00early-alzheimers02-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Two experimental drugs failed to prevent or slow mental decline in a study of people genetically predisposed to develop Alzheimer's disease at a young age.",
+          "copyright": "Matt York/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/10/science/00early-alzheimers02/00early-alzheimers02-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Two experimental drugs failed to prevent or slow mental decline in a study of people genetically predisposed to develop Alzheimer's disease at a young age.",
+          "copyright": "Matt York/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/10/science/00early-alzheimers02/merlin_168718821_8b9439c7-c3be-4f1d-a723-b5acc349babd-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Two experimental drugs failed to prevent or slow mental decline in a study of people genetically predisposed to develop Alzheimer's disease at a young age.",
+          "copyright": "Matt York/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/10/science/00early-alzheimers02/merlin_168718821_8b9439c7-c3be-4f1d-a723-b5acc349babd-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Two experimental drugs failed to prevent or slow mental decline in a study of people genetically predisposed to develop Alzheimer's disease at a young age.",
+          "copyright": "Matt York/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2uyYrCx"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Never Mind the Internet. Here’s What’s Killing Malls.",
+      "abstract": "Yes, the internet has changed the way we shop. But taken together, other factors have caused greater harm to traditional retail stores, an economist says.",
+      "url": "https://www.nytimes.com/2020/02/13/business/not-internet-really-killing-malls.html",
+      "uri": "nyt://article/fcd5df9b-d72c-5b2a-9504-e8d242ac7482",
+      "byline": "By Austan Goolsbee",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T23:43:56-05:00",
+      "created_date": "2020-02-13T05:00:17-05:00",
+      "published_date": "2020-02-13T05:00:17-05:00",
+      "material_type_facet": "",
+      "kicker": "Economic view",
+      "des_facet": [
+        "Shopping and Retail",
+        "E-Commerce",
+        "Income Inequality",
+        "Computers and the Internet",
+        "Income",
+        "United States Economy",
+        "High Net Worth Individuals"
+      ],
+      "org_facet": [
+        "Amazon.com Inc",
+        "Census Bureau",
+        "Costco Wholesale Corporation",
+        "Deloitte Touche Tohmatsu Ltd",
+        "Pew Research Center",
+        "Sam's Club",
+        "University of Chicago",
+        "Walmart Stores Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/business/16VIEW/16VIEW-superJumbo.gif",
+          "format": "superJumbo",
+          "height": 796,
+          "width": 1050,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Abbey Lossing"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/business/16VIEW/16VIEW-thumbStandard.gif",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Abbey Lossing"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/business/16VIEW/16VIEW-thumbLarge.gif",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Abbey Lossing"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/business/16VIEW/16VIEW-mediumThreeByTwo210.gif",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Abbey Lossing"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/16/business/16VIEW/16VIEW-articleInline.gif",
+          "format": "Normal",
+          "height": 144,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Abbey Lossing"
+        }
+      ],
+      "short_url": "https://nyti.ms/2OOPoo0"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "Love Letters From World War II Reveal Promises Made and Broken",
+      "abstract": "A museum in New Orleans dedicated to World War II has a vast collection of letters from soldiers, sailors and the women who loved them.",
+      "url": "https://www.nytimes.com/2020/02/13/style/ww2-museum-new-orleans-love-letters.html",
+      "uri": "nyt://article/e913e8b2-48a0-5a55-9535-3654d62f09eb",
+      "byline": "By Maria Cramer",
+      "item_type": "Article",
+      "updated_date": "2020-02-14T18:01:01-05:00",
+      "created_date": "2020-02-13T14:04:36-05:00",
+      "published_date": "2020-02-13T14:04:36-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Letters",
+        "Museums",
+        "World War II (1939-45)",
+        "Weddings and Engagements",
+        "Dating and Relationships",
+        "Veterans"
+      ],
+      "org_facet": [
+        "National World War II Museum (New Orleans, La)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14xp-letters/14xp-letters-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1417,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One of the love letters from the National WWII Museum.",
+          "copyright": "via The National WWII Museum"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14xp-letters/14xp-letters-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One of the love letters from the National WWII Museum.",
+          "copyright": "via The National WWII Museum"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14xp-letters/14xp-letters-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One of the love letters from the National WWII Museum.",
+          "copyright": "via The National WWII Museum"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14xp-letters/14xp-letters-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One of the love letters from the National WWII Museum.",
+          "copyright": "via The National WWII Museum"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/politics/14xp-letters/14xp-letters-articleInline.jpg",
+          "format": "Normal",
+          "height": 275,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One of the love letters from the National WWII Museum.",
+          "copyright": "via The National WWII Museum"
+        }
+      ],
+      "short_url": "https://nyti.ms/3bv1Enn"
+    }
+  ]
+}
